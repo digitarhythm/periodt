@@ -1,4 +1,4 @@
-# TIJUANA LP
-TReK TIJUANA LP KiCAD Project
+# esAlice
+TReK esAlice KiCAD Project
 
-[Firmware repository](https://github.com/digitarhythm/vial-qmk/tree/digitarhythm/keyboards/trek/tijuana_lp)
+[Firmware repository](https://github.com/digitarhythm/vial-qmk/tree/digitarhythm/keyboards/trek/esAlice)
